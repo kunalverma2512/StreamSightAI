@@ -472,6 +472,6 @@ npm run test
 
 **Made with ❤️ for the AI Community**
 
-**Contributors-Kunal Verma, Aditya Pratap Singh, Hemant Pathak, Laaksh Parikh, Hardik Sirohia.**
+**Contributors-Kunal Verma, Aditya Pratap Singh, Hemant Pathak, Laaksh Parikh, Hardik Sirohia**
 
 *StreamSightAI - Bringing Intelligence to Visual Content*
